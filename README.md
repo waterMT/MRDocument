@@ -1,4 +1,6 @@
 # MRDocumentation
-This is supplemental documentation for paper, "**Testing Constraint Checking Implementations via Principled Metamorphic Transformations**".
+<font size=5> This is a supplemental documentation for our submission "**Testing Constraint Checking Implementations via Principled Metamorphic Transformations**".</font>
 
-In the documentation, we present in more detail a total of 15 MRs in 4 categories mentioned in the paper. You can find them in "**documentation.pdf**" in the left-hand side list.
+In the documentation, we elaborate on details about all of our designed MRs (15 MRs in four categories). You can reach to "**documentation.pdf**" in the left-hand side list. 
+
+We also confirm and guarantee that all contents in this documentation are anonymous, without any identity to authors.
